@@ -35,7 +35,7 @@ public class Main {
 
             case 3:
                 resultado = valorUm / valorDois;
-                if (valorDois == 0);
+                if(valorDois == 0);
                 System.out.println("Segundo valor imcompátivel com operação desejada");
                 System.out.println(resultado);
 
